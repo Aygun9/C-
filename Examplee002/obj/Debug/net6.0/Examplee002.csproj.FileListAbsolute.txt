@@ -1,0 +1,15 @@
+C:\Users\Aygun\Desktop\Number_1\Folder_1\Example_1\Examplee002\bin\Debug\net6.0\Examplee002.exe
+C:\Users\Aygun\Desktop\Number_1\Folder_1\Example_1\Examplee002\bin\Debug\net6.0\Examplee002.deps.json
+C:\Users\Aygun\Desktop\Number_1\Folder_1\Example_1\Examplee002\bin\Debug\net6.0\Examplee002.runtimeconfig.json
+C:\Users\Aygun\Desktop\Number_1\Folder_1\Example_1\Examplee002\bin\Debug\net6.0\Examplee002.dll
+C:\Users\Aygun\Desktop\Number_1\Folder_1\Example_1\Examplee002\bin\Debug\net6.0\Examplee002.pdb
+C:\Users\Aygun\Desktop\Number_1\Folder_1\Example_1\Examplee002\obj\Debug\net6.0\Examplee002.csproj.AssemblyReference.cache
+C:\Users\Aygun\Desktop\Number_1\Folder_1\Example_1\Examplee002\obj\Debug\net6.0\Examplee002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aygun\Desktop\Number_1\Folder_1\Example_1\Examplee002\obj\Debug\net6.0\Examplee002.AssemblyInfoInputs.cache
+C:\Users\Aygun\Desktop\Number_1\Folder_1\Example_1\Examplee002\obj\Debug\net6.0\Examplee002.AssemblyInfo.cs
+C:\Users\Aygun\Desktop\Number_1\Folder_1\Example_1\Examplee002\obj\Debug\net6.0\Examplee002.csproj.CoreCompileInputs.cache
+C:\Users\Aygun\Desktop\Number_1\Folder_1\Example_1\Examplee002\obj\Debug\net6.0\Examplee002.dll
+C:\Users\Aygun\Desktop\Number_1\Folder_1\Example_1\Examplee002\obj\Debug\net6.0\refint\Examplee002.dll
+C:\Users\Aygun\Desktop\Number_1\Folder_1\Example_1\Examplee002\obj\Debug\net6.0\Examplee002.pdb
+C:\Users\Aygun\Desktop\Number_1\Folder_1\Example_1\Examplee002\obj\Debug\net6.0\Examplee002.genruntimeconfig.cache
+C:\Users\Aygun\Desktop\Number_1\Folder_1\Example_1\Examplee002\obj\Debug\net6.0\ref\Examplee002.dll
